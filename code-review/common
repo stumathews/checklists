@@ -1,0 +1,19 @@
+This is A sample checklist for code reviews
+
+READ-DO Checklist:
+- Ensure the description of the overall change is meaningful.
+- Ensure one class per file
+- Ensure function names intuitive, descriptive and correct.
+- Ensure comments are correct.
+- Ensure there is consistency of usages/approaches.
+- Check spelling.
+- Ensure to remove 'real' information from change eg. names, passwords etc.
+- Ensure R# is green
+- Ensure to evaluate if new functions require unit testing
+- Ensure Name of file matches name of class
+- Ensure Unneeded blank lines removed
+- Ensure Null checks in place?
+- Ensure Class names singular
+- Ensure provision made for logging?
+- Ensure Provision made for error logging?
+- Ensure provision made for threading/concurrent acccess
