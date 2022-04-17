@@ -1,6 +1,4 @@
-This is A sample checklist for code reviews
-
-READ-DO Checklist:
+READ-DO:
 - Ensure the description of the overall change is meaningful.
 - Ensure one class per file
 - Ensure function names intuitive, descriptive and correct.
@@ -17,3 +15,4 @@ READ-DO Checklist:
 - Ensure provision made for logging?
 - Ensure Provision made for error logging?
 - Ensure provision made for threading/concurrent acccess
+- Ensure provision made for security concerns
